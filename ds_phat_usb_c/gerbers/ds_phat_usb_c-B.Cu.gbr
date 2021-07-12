@@ -1,0 +1,48 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,5.0.2+dfsg1-1~bpo9+1*
+G04 #@! TF.CreationDate,2021-05-18T17:20:13+01:00*
+G04 #@! TF.ProjectId,ds_phat_usb_c,64735f70-6861-4745-9f75-73625f632e6b,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Copper,L2,Bot*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 5.0.2+dfsg1-1~bpo9+1) date Tue 18 May 2021 17:20:13 BST*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD10C,1.500000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD11O,1.700000X1.200000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD12O,1.000000X1.500000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+G04 #@! TO.P,U1,1*
+G04 #@! TO.N,Net-(R1-Pad2)*
+X152818000Y-74110000D03*
+X144182000Y-74110000D03*
+X144182000Y-70312700D03*
+X152818000Y-70312700D03*
+G04 #@! TD*
+D11*
+G04 #@! TO.P,U3,1*
+G04 #@! TO.N,Net-(U3-Pad1)*
+X143486200Y-72190000D03*
+G04 #@! TO.P,U3,2*
+G04 #@! TO.N,Net-(U3-Pad2)*
+X153493800Y-72190000D03*
+G04 #@! TD*
+D12*
+G04 #@! TO.P,U2,1*
+G04 #@! TO.N,Net-(R1-Pad2)*
+X144697600Y-76194920D03*
+G04 #@! TO.P,U2,2*
+G04 #@! TO.N,Net-(U1-Pad2)*
+X151200000Y-76200000D03*
+G04 #@! TD*
+M02*
